@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Dian
 
-<!--
-**dianhida/dianhida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Engineer | 6+ Years of Experience**
 
-Here are some ideas to get you started:
+I build reliable data pipelines, data warehouses, and automated workflows to turn raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+SQL · Python · Apache Airflow · PostgreSQL · Docker · ETL/ELT
+
+### 🌱 Currently Learning
+Google Cloud Platform (GCP) · BigQuery · dbt
+
+### 🚀 Currently Working On
+Building data engineering projects focused on data ingestion, processing, and analytics.
+
+### 💬 Ask Me About
+SQL · Python · ETL Pipelines · Data Orchestration
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/dian-anggriawan-hidayat/) · [Email](mailto:dian.hidayat96@gmail.com)
